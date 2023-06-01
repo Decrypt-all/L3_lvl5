@@ -559,7 +559,7 @@
 	"/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/button[1]"
   ],
   "https://layer3.xyz/quests/brave-quest": [
-    "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/button[1]",
+	"/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/button[1]",
 	"/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/button[1]/span[1]",
 	"/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/button[1]/span[1]",
 	"/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/button[1]/span[1]",
@@ -571,9 +571,6 @@
 	"/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/button[1]/span[1]",
 	"/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/button[1]/span[1]",
 	"/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/button[1]/span[1]",
-	"/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/button[1]/span[1]",
-	"/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/button[1]",
-	"/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/button[1]",
 	"/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/button[1]",
 	"/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/button[1]",
 	"/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/button[1]"
@@ -723,7 +720,6 @@
 	"/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/button[1]/span[1]",
 	"/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/button[1]/span[1]",
 	"/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/button[1]/span[1]",
-	"/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/button[1]/span[1]",
 	"/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/button[2]/p[1]",
 	"/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/button[1]/span[1]",
 	"/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/button[2]/p[1]",
@@ -739,6 +735,9 @@
  "https://layer3.xyz/quests/uniswap-mobile-wallet": [
 	"/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/button[1]",
 	"/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/button[1]/span[1]",
+	"/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/button[1]/span[1]",
+	"/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/button[1]/span[1]",
+	"/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/button[1]/span[1]",
 	"/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/button[2]/p[1]",
 	"/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/button[1]/span[1]",
 	"/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/button[4]/p[1]",
@@ -752,5 +751,17 @@
 	"/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/button[5]/label[1]",
 	"/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/button[1]/span[1]",
 	"/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/button[1]"
-  ]
+  ],
+  "https://layer3.xyz/quests/get-started-with-layer3": [
+	"/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/button[1]",
+	"/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/button[2]/span[1]",
+	"/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/button[1]/span[1]",
+	"/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/button[3]/label[1]",
+	"/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/button[1]/span[1]",
+	"/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/button[4]/label[1]",
+	"/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/button[2]/label[1]",
+	"/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/button[1]/span[1]",
+	"/html[1]/body[1]/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/div[1]/button[1]"
+	
+]
   }
