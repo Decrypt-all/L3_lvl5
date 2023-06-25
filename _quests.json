@@ -1,0 +1,217 @@
+{
+   "https://layer3.xyz/quests/get-started-with-layer3":[
+      "Other",
+      "Earn rewards"
+   ],
+   "https://layer3.xyz/quests/malicious-seaport-signatures":[
+      "Bad actors can easily build",
+      "Setting an",
+      "The offer and the consideration",
+      "All of the above",
+      "5 - I want"
+   ],
+   "https://layer3.xyz/quests/honeypot-scams":[
+      "It involves creating a fake wallet or smart contract that appears legitimate to lure in victims to deposit their funds. The funds are then transferred out of the fake wallet, leaving the victim with no way to recover their lost funds.",
+      "B and D",
+      "5 - I want to share it with everyone I know!"
+   ],
+   "https://layer3.xyz/quests/nft-security":[
+      "All of the above",
+      "True",
+      "Social engineering attempts to trick the user into a false sense of safety",
+      "All of the above",
+      "All of the above",
+      "Use a hot/burner wallet with assets you don't mind losing",
+      "Cold wallet",
+      "5 - I want to share it with everyone I know!"
+   ],
+   "https://layer3.xyz/quests/a-brief-history-of-crypto":[
+
+   ],
+   "https://layer3.xyz/quests/fractionalized-nfts":[
+      "5 - I want to share it with everyone I know!"
+   ],
+   "https://layer3.xyz/quests/defi-x-nfts":[
+      "Eliminating the need for staked tokens in exchange for governance tokens",
+      "Yield farming using unique position NFTs",
+      "5 - I want to share it with everyone I know!"
+   ],
+   "https://layer3.xyz/quests/voting-on-chain-with-snapshot":[
+      "5 - I want to share it with everyone I know!"
+   ],
+   "https://layer3.xyz/quests/introduction-to-daos":[
+
+   ],
+   "https://layer3.xyz/quests/how-to-create-a-smart-contract":[
+      "Agreements between two people in the form of computer code",
+      "A popular language for building smart contracts on Ethereum",
+      "An online development environment for Solidity",
+      "A fee paid by users for the computing energy needed to process and validate transactions",
+      "Decentralization and automation",
+      "web3.js",
+      "A development framework for Ethereum smart contracts",
+      "5 - I want to share it with everyone I know!"
+   ],
+   "https://layer3.xyz/quests/understanding-poaps-the-proof-of-attendance-protocol":[
+      "Proof of Attendance Protocol",
+      "To enable users to create digital badges or collectibles through the use of blockchain technology.",
+      "All of the above",
+      "As status symbols and rewards for event attendees and NFT drop participants.",
+      "Other",
+      "5 - I want to share it with everyone I know!"
+   ],
+   "https://layer3.xyz/quests/what-are-wallets-in-web3":[
+      "Public and private keys",
+      "To pay miners or validators for processing and validating transactions",
+      "Bank account",
+      "Other",
+      "5 - I want to share it with everyone I know!"
+   ],
+   "https://layer3.xyz/quests/nft-gaming":[
+      "Aavegotchi are digital NFT creatures that live on the blockchain",
+      "By participating in mini-games, governance, and meetups",
+      "By equipping in-game wearables and leveling up",
+      "All of the above",
+      "5 - I want to share it with everyone I know!"
+   ],
+   "https://layer3.xyz/quests/minting-and-creating-nfts":[
+      "To secure data on a blockchain network",
+      "Fungible tokens are interchangeable while non-fungible tokens are unique",
+      "OpenSea, MagicEden & Zora",
+      "A minted NFT is created and added to the blockchain, while a burned NFT is destroyed and removed from the blockchain",
+      "5 - I want to share it with everyone I know!"
+   ],
+   "https://layer3.xyz/quests/the-history-of-makerdao":[
+      "Decentralized stablecoin platform",
+      "DAI",
+      "They participate in governance and decision-making",
+      "5 - I want to share it with everyone I know!"
+   ],
+   "https://layer3.xyz/quests/the-importance-of-audits":[
+      "False! Audits are the first line of defense but no protocol is 100% safe",
+      "Check the Auditor Website or Project Docs",
+      "5 - I want to share it with everyone I know!"
+   ],
+   "https://layer3.xyz/quests/how-to-send-an-on-chain-message":[
+      "Interacting with smart contracts",
+      "Ether (ETH) for gas fees",
+      "Smart contract functions",
+      "Yes",
+      "Solidity",
+      "5 - I want to share it with everyone I know!"
+   ],
+   "https://layer3.xyz/quests/running-your-node":[
+      "Using client software, compatible hardware, and staying online",
+      "Intel NUC",
+      "DAppNode",
+      "No, staking ETH is optional",
+      "Online platforms like Discord and Reddit",
+      "5 - I want to share it with everyone I know!"
+   ],
+   "https://layer3.xyz/quests/understanding-modular-blockchains":[
+      "All of the above",
+      "True",
+      "They decouple these functions among multiple specialized layers as part of a modular stack",
+      "Rollups",
+      "Security, complexity, token value",
+      "5 - I want to share it with everyone I know!"
+   ],
+   "https://layer3.xyz/quests/on-chain-sleuth":[
+      "To ensure DAOs manage their treasury effectively and understand market movements",
+      "Debank",
+      "ETH"
+   ],
+   "https://layer3.xyz/quests/a-beginners-guide-to-rpc-in-crypto":[
+      "A method for wallets to communicate with blockchain networks",
+      "It provides a way for apps to interact with the blockchain"
+   ],
+   "https://layer3.xyz/quests/the-genesis-of-bitcoin-a-historical-overview":[
+      "Satoshi Nakamoto",
+      "2008",
+      "The Genesis Block"
+   ],
+   "https://layer3.xyz/quests/a-deep-dive-into-bitcoins-taproot-and-schnorr-signatures":[
+      "Privacy and scalability",
+      "MAST (Merkelized Abstract Syntax Trees)",
+      "By allowing signature aggregation ",
+      "Making complex transactions look like simple transactions "
+   ],
+   "https://layer3.xyz/quests/bitcoin-in-everyday-life-practical-use-cases-and-applications":[
+      "Decentralization",
+      "QR Code",
+      "Cross-border payments, Online Shopping, Store of Value"
+   ],
+   "https://layer3.xyz/quests/the-rise-of-bitcoins-layer-2-lightning":[
+      "Scalability",
+      "Off-chain transactions",
+      "By using smart contracts ",
+      "Seconds"
+   ],
+   "https://layer3.xyz/quests/an-introduction-to-podcast-nfts":[
+      "Increased listener engagement and community building",
+      "By voting on podcast topics and decisions"
+   ],
+   "https://layer3.xyz/quests/a-beginners-guide-to-commodity-backed-stablecoins":[
+      "Backed by tangible assets"
+   ],
+   "https://layer3.xyz/quests/etherscan-explained":[
+      "Exploring Ethereum blockchain",
+      "Yes",
+      "The block has been accepted by >2/3 validators and is unlikely to be reorganized"
+   ],
+   "https://layer3.xyz/quests/introduction-to-polkadot":[
+      "Interoperability, scalability, and security",
+      "Parachains",
+      "To manage the network's security and consensus"
+   ],
+   "https://layer3.xyz/quests/brave-quest":[
+
+   ],
+   "https://layer3.xyz/quests/a-beginners-guide-to-music-nfts":[
+      "Non-Fungible Token",
+      "Limited edition"
+   ],
+   "https://layer3.xyz/quests/ethereum-is-a-dark-forest":[
+      "Arbitrage bots",
+      "Recovering lost Uniswap liquidity tokens",
+      "Optimism & StarkWare"
+   ],
+   "https://layer3.xyz/quests/what-are-erc-tokens":[
+      "Ethereum Request for Comment",
+      "To define a standard for tokens on Ethereum",
+      "CryptoKitties",
+      "Ethereum Request for Comments 1155",
+      "To define a standard for token transfers that is more secure and efficient than ERC-20",
+      "Other",
+      "5 - I want to share it with everyone I know!"
+   ],
+   "https://layer3.xyz/quests/introduction-to-ordinals":[
+      "Colored Coins",
+      "Rare Pepe",
+      "PEPERMANENT",
+      "On the first sat of the first output of the transaction",
+      "5 - I want to share it with everyone I know!"
+   ],
+   "https://layer3.xyz/quests/a-beginners-guide-to-crypto-insurance":[
+      "A & C only!",
+      "Negative! I know it is boring, but I always read the contract and understand what the coverage is about. After all, we are talking about capital protection here",
+      "It all depends on my personal approach to risk management, but broadly speaking, insurance is worth it for any higher value positions I may have"
+   ],
+   "https://layer3.xyz/quests/what-is-refi":[
+      "A field that considers the environmental, social, and economic impacts of financial decisions",
+      "Nature-based and technology-based credits",
+      "To improve liquidity and transparency in carbon credit markets",
+      "An infrastructure for creating on-chain carbon markets",
+      "Decentralization"
+   ],
+   "https://layer3.xyz/quests/uniswap-mobile-wallet":[
+      "A self-custodial wallet",
+      "L1 and L2 networks",
+      "You receive a push notification in real-time",
+      "You have to manually write it down on paper",
+      "5 - I want to share it with everyone I know!"
+   ],
+   "https://layer3.xyz/quests/setup-your-wallets":[
+
+   ]
+}
